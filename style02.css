@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+}
+p{
+    font-size:20px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    margin-left: 10px;
+    padding: 0px;
+    background-color: powderblue ;
+    width: 200px;
+    font-size: 30px;
+    overflow: hidden;
+}
+li{
+    padding: 20px;
+    color: blue;
+    }
+li:hover{
+    background-color:orange;
+}
+.horizontal ul{
+    width: auto;
+    height: 45px;
+    text-align: center;
+}
+.horizontal li{
+    display: inline;    
+}

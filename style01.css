@@ -1,0 +1,12 @@
+table,th,td {
+    border: 1px solid black;
+    font-size: larger;
+    border-collapse: separate;
+    border-radius: 20px;
+}
+table {
+    background-color: powderblue;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
